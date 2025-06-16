@@ -75,7 +75,7 @@ img {
 .pelicula-card {
   width: 500px;
   min-width: 500px;
-  background: #000;
+  background: #0000;
   border-radius: 16px;
   box-shadow: 0 2px 12px rgba(0,0,0,0.08);
   display: flex;
